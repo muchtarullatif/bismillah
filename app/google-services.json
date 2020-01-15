@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535542749518",
+    "firebase_url": "https://nodemcu-d31f0.firebaseio.com",
+    "project_id": "nodemcu-d31f0",
+    "storage_bucket": "nodemcu-d31f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535542749518:android:912ebc1a368be293",
+        "android_client_info": {
+          "package_name": "com.latihan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535542749518-7a7bitbkga15ae8jub12mqvr3rjrgkun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihan.firebase",
+            "certificate_hash": "e286744b5fe22770693380ebe7ba06658fae6c17"
+          }
+        },
+        {
+          "client_id": "535542749518-7k88q1fvc7nlrvcet9uojdhdavkeh1sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTSSXPfiNX8rEp_P9UAd3KEjTyRgWPgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535542749518-7k88q1fvc7nlrvcet9uojdhdavkeh1sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
